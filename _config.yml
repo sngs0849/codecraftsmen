@@ -1,7 +1,7 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+title: CodeCraftsmen
+email: shabadjot@gmail.com
+url: https://www.CodeCraftsmen.ca
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
@@ -40,23 +40,20 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/codecraftsmen
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/questions/tagged/codecraftsmen
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/codecraftsmen
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/codecraftsmen
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+  - line: 30 Orchard Gate
+  - line: Oak Bluff, Manitoba, Canada
 
 # Build settings
 markdown: kramdown
