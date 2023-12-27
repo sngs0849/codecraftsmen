@@ -6,6 +6,6 @@ img: cabin.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
+category: SmartCOMM Integration
 description: SmartCOMM for Guidewire empowers carriers to have Smarter conversations with their policyholders. The solution works seamlessly within the Guidewire InsuranceSuite platform to allow personalized and compliant multi-channel/multi-language documents to be generated - including FNOL, claims correspondence, policy decs, quotes, renewals, ID cards, statements, and bills.
 ---
